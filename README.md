@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gnayt
+- 👀 I’m interested in Crypto and Software Dev
+- 🌱 I’m currently learning Solidity
+- 📫 How to reach me gnayt@protonmail.com
